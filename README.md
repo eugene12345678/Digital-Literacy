@@ -87,7 +87,7 @@ The Digital Literacy Course (DLC) Website is a modern, futuristic platform desig
    npm run dev
    
    # Start backend (from separate terminal)
-   npm run server
+   python app.py or python3 app.py
    ```
 
 6. Open your browser and visit `http://localhost:5173`
