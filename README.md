@@ -1,7 +1,5 @@
 # 🚀 Digital Literacy Course (DLC) Website
 
-![DLC Banner](https://via.placeholder.com/1200x300)
-
 ## ✨ Overview
 
 The Digital Literacy Course (DLC) Website is a modern, futuristic platform designed to empower parents and elderly users to easily learn and navigate digital tools. With an intuitive interface, interactive tutorials, and AI-powered assistance, DLC bridges the digital divide and makes technology accessible to everyone.
@@ -63,8 +61,8 @@ The Digital Literacy Course (DLC) Website is a modern, futuristic platform desig
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dlc-website.git
-   cd dlc-website
+   git clone https://github.com/eugene12345678/Digital-Literacy.git
+   cd Digital Literacy
    ```
 
 2. Install frontend dependencies:
@@ -112,7 +110,9 @@ The application supports both light and dark modes, automatically detecting syst
 
 Navigate the website using simple voice commands:
 - "Go to home" - Navigate to the home page
-- "Show tutorials" - Open the tutorials page
+- "Go to tutorials" - Open the tutorials page
+- "Go to AI Chat" - Open the AI chat interface
+- "Go to Feedback" - Open the feedback page
 - "Open chat" - Launch DigiBuddy
 - "Increase font size" - Enhance readability
 - "Submit feedback" - Quick access to the feedback form
@@ -134,16 +134,16 @@ Navigate the website using simple voice commands:
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](https://via.placeholder.com/800x450)
+![Home Page](/src/screenshots/Home.png)
 
 ### Tutorials Section
-![Tutorials](https://via.placeholder.com/800x450)
+![Tutorials](/src/screenshots/Tutorials.png)
 
 ### DigiBuddy Chat Interface
-![Chatbot](https://via.placeholder.com/800x450)
+![Chatbot](/src/screenshots/AIchat.png)
 
 ### Accessibility Features
-![Accessibility](https://via.placeholder.com/800x450)
+![Accessibility](/src/screenshots/Accessibility.png)
 
 ## 🤝 Contributing
 
